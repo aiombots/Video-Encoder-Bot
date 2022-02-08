@@ -22,7 +22,7 @@ import time
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 
-import ffmpeg
+import ffmpeg-python
 
 from .. import audio, encode_dir
 from .. import preset as p
