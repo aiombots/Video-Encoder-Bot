@@ -1,1 +1,1 @@
-worker: python3 -m Video-Encoder-Bot
+worker: python3 -m VideoEncoder
